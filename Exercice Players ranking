@@ -1,0 +1,5 @@
+player1 = "larry"
+health1 = 60
+
+puts player1.capitalize
+puts "#{player1} has a health of #{health1}"

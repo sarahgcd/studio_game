@@ -1,0 +1,7 @@
+project1 = "Project ABC"
+project2 = "Project LMN"
+project3 = "Project XYZ"
+
+amount = $1000
+
+puts "#"
